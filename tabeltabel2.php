@@ -95,7 +95,7 @@ $total = 0;
         </tr>
     </tr>
     </table>
-        <form method="post">
+        <form method="post" action="logout.php">
             <input type="hidden" name="logout" value="1"/>
             <input type="submit" value="Logout"/>
         </form>

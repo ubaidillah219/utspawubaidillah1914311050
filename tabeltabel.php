@@ -97,7 +97,7 @@ $total = 0;
         </tr>
     </tr>
     </table>
-        <form method="post" action="2-check.php">
+        <form method="post" action="logout.php">
             <input type="hidden" name="logout" value="1"/>
             <input type="submit" value="Logout"/>
         </form>

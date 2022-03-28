@@ -35,10 +35,9 @@
         <input type="number" name="jml3" id="jml3"><br>
         <input type="submit"></input>
     </form>
-    <form method="post">
-        <input type="hidden" name="logout" value="1"/>
-        <input type="submit" value="Logout"/>
+    <form method="post" action="logout.php">
+            <input type="hidden" name="logout" value="1"/>
+            <input type="submit" value="Logout"/>
     </form>
-    
 </body>
 </html>
