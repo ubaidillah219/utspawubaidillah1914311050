@@ -6,7 +6,7 @@ require "2-check.php";
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Login Page Demo</title>
+    <title>Login Data Penduduk JAWA</title>
     <link href="1b-login.css" rel="stylesheet">
   </head>
   <body>
