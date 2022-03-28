@@ -1,6 +1,6 @@
 <html>
 <head>
-	<title>Membuat Form Login</title>
+	<title>Data Penduduk</title>
     <link href="1b-login.css" rel="stylesheet">
 </head>
 <body>
